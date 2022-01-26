@@ -1,7 +1,7 @@
 # MPU6050_GTA
 
 ## Introduction: 
-L'idée du projet est d'utiliser une centrale inertielle couplé à un Arduino Pro Micro pour transformer les mouvements d’inclinaison d’un humain en mouvements de direction afin de piloter des véhicules dans GTA.
+Le projet consiste à utiliser une centrale inertielle couplée à un Arduino Pro Micro pour transformer les mouvements d’inclinaison de la tête en mouvements de direction pour piloter des véhicules dans GTA5.
 
 ## Structure du projet
 ```
