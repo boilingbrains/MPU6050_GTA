@@ -8,7 +8,7 @@ Le projet consiste à utiliser une centrale inertielle couplée à un Arduino Pr
 📦project
 │   📜README.md
 │   📜câblage.png
-│   📜miniature_MPU6050.png
+│   📜miniature_MPU6050_GTA.png
 └───📜MPU6050_GTA.ino
 
 ```
@@ -19,6 +19,6 @@ Clique sur l'image pour accéder à la vidéo d'explication.
 
 <span style="display:block;text-align:center">
 
-[![](miniature_MPU6050.png#center)](https://youtu.be/Uq7nbmsMQj0)
+[![](miniature_MPU6050_GTA.png#center)](https://youtu.be/Uq7nbmsMQj0)
 
 </span>
