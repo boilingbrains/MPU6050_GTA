@@ -8,10 +8,17 @@ Le projet consiste à utiliser une centrale inertielle couplée à un Arduino Pr
 📦project
 │   📜README.md
 │   📜câblage.png
+│   📜miniature_MPU6050.png
 └───📜MPU6050_GTA.ino
 
 ```
 
-## Explications et démos
+## Explications
 
-La vidéo du projet : 
+Clique sur l'image pour accéder à la vidéo d'explication.
+
+<span style="display:block;text-align:center">
+
+[![](miniature_MPU6050.png#center)](https://youtu.be/Uq7nbmsMQj0)
+
+</span>
